@@ -32,9 +32,9 @@ In command Prompt
 ```
 
 
-## Screenshots[README.md](https://github.com/tushariccs/JavaAssignment/files/10037445/README.md)
+## Screenshots
 
 
 
 
-
+![Screenshot 2022-11-18 084153](https://user-images.githubusercontent.com/103886040/202609531-9e6281b8-54fe-4a61-ac2e-a7b842374b79.png)
