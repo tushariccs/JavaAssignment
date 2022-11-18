@@ -1,9 +1,8 @@
 # JavaAssignment
 Java Assignment codes
 
-ABOUT ME 
-
-NAME:TUSHAR NITIN BHANSALI
-ROLL_NO=33
-PRN-1132220160
+About me
+Archit Madankar
+Roll No. - 22
+PRN - 1132220243
 
