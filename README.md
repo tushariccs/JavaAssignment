@@ -49,7 +49,7 @@ Output
 
 TimePart2.java
 Output
+![Screenshot 2022-11-18 090312](https://user-images.githubusercontent.com/103886040/202611156-69adb898-1a3b-4de5-8bdf-7d5e937c88f2.png)
 
-
-
-
+Q4.java
+Output
