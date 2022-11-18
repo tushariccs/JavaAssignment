@@ -53,3 +53,8 @@ Output
 
 Q4.java
 Output
+
+![Screenshot 2022-11-18 091011](https://user-images.githubusercontent.com/103886040/202611749-e901a087-3064-4f68-bcf7-68203d2cb197.png)
+
+
+ASSIGNMENT FINISHED
