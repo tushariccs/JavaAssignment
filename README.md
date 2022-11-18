@@ -1,4 +1,4 @@
-![Screenshot 2022-11-18 084153](https://user-images.githubusercontent.com/103886040/202609772-65a3fec2-dbc6-41a1-8b20-07ef8b8de830.png)
+
 
 # Java Assignments
 
@@ -45,5 +45,11 @@ Output
 
 Time.java
 Output
+![Screenshot 2022-11-18 085921](https://user-images.githubusercontent.com/103886040/202610611-1e9e7807-6ee7-4a8f-8879-c57004d29ad4.png)
+
+TimePart2.java
+Output
+
+
 
 
